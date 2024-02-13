@@ -1,7 +1,7 @@
 # diwali_sales_analysis
 
 > Description:
-This is a Data Analysis Project of a company's Diwali sales across India
+- This is a Data Analysis Project of a company's Diwali sales across India
 
 > Objectives:
 - Improve customer experience
