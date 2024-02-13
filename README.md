@@ -1,4 +1,4 @@
-# diwali_sales_analysis
+# Diwali Sales Analysis
 
 > Description:
 - This is a Data Analysis Project of a company's Diwali sales across India
