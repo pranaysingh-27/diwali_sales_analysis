@@ -14,3 +14,6 @@
 - Improved customer experience by identifying potential target customers across different demographics. This would also help the marketing team to run targeted ads.
 - Identified key customer segments and sales drivers, including top occupations, states, product categories, and products.
 - Improved sales by identifying most selling product categories and products, which can help in inventory planning and hence meet the demands.
+
+> Conclusion:
+- Married women in the age group 26-35 yrs from UP, Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category.
